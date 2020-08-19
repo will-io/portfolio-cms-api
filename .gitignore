@@ -80,6 +80,7 @@ $RECYCLE.BIN/
 ssl
 .idea
 nbproject
+extensions/upload/*
 public/uploads/*
 !public/uploads/.gitkeep
 

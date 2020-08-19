@@ -36,13 +36,13 @@
     "category": {
       "type": "enumeration",
       "enum": [
-        "gatsby",
-        "javascript",
-        "react",
-        "html"
+        "cloud",
+        "framework",
+        "languages",
+        "misc"
       ],
       "required": true,
-      "default": "gatsby"
+      "default": "cloud"
     },
     "desc": {
       "type": "text",
